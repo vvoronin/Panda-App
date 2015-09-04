@@ -1,0 +1,1 @@
+use App qw/App::Game App::Game::Battle/;
